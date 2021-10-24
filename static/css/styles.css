@@ -1,0 +1,144 @@
+body {
+ text-align : center ;
+}
+
+#title {
+  background : #C0E218 ;
+  font-family:'Ubuntu', sans-serif;
+  padding : 0 0 5% 0;
+  margin : auto ;
+}
+
+.container-fluid{
+
+}
+
+.content-video {
+    background : black ;
+    margin: 0 0 0 0;
+    padding: 7% 15%;
+}
+
+/* Description */
+#Description {
+  font-family:'Ubuntu', sans-serif;
+  text-align : left;
+  display: flex;
+  background: black ;
+}
+
+
+.imgd {
+  height : 50rem;
+  width : 550rem ;
+}
+
+.content_two_class {
+ text-align: right;
+
+}
+
+.content_two_class h2 {
+font-size: 4.5rem;
+color :#C0E218;
+padding : 35% 0 35% 35% ;
+}
+
+.carousel-indicators {
+  color :#C0E218;
+}
+
+@media (max-width:1000px) {
+    .content_two_class {
+     text-align: center;
+    }
+    .content_two_class h2 {
+        font-size: 3.5rem;
+        color :#C0E218;
+        padding : 15% 15% ;
+    }
+
+
+}
+
+/* Description */
+
+.card-text {
+ color : #76A21E ;
+ font-size : 1.5rem;
+}
+
+.btn {
+
+  height : 3rem;
+  width : 15rem;
+}
+
+
+.navbar {
+padding 0 0 4.5rem;
+margin 0 0 0 0;
+}
+
+.rounded {
+ margin : 5% 0;
+ height: 10rem;
+ width:10rem;
+}
+
+
+.nav-item {
+  padding 0 18px ;
+  font-family:'Ubuntu', sans-serif;
+}
+
+
+#feature {
+ padding: 7% 15% ;
+ font-family:'Ubuntu', sans-serif;
+  background : #C0E218 ;
+}
+
+
+a:hover {
+color : blue;
+}
+
+.lin {
+color : black;
+}
+
+
+
+#contact {
+  padding: 7% 15% ;
+  font-family:'Ubuntu', sans-serif;
+  background : black;
+}
+
+#contact i {
+ color : #C0E218;
+}
+
+
+
+
+#Us{
+ background : #C0E218;
+ text-align : left;
+ padding : 7% 7%;
+}
+
+#App {
+ background : black;
+ text-align : auto;
+ padding : 7% 15%;
+ font-family:'Ubuntu', sans-serif;
+}
+
+.obey {
+color : #C0E218;
+}
+
+
+
